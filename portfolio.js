@@ -60,7 +60,7 @@ document.querySelectorAll("[data-carousel]").forEach((carousel) => {
        3. CAROUSEL SETTINGS
     ======================================== */
 
-    const slideDuration = 7000;
+    const slideDuration = 4999;
 
     let currentSlide = 0;
 
